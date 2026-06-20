@@ -2,7 +2,7 @@
 
 ### 📊 Project Overview
 This Power BI dashboard provides deep insights into employee attrition rates to help the HR management understand the main drivers behind employee turnover.
-
+![Dashboard Screenshot](WhatsApp%20Image%202026-06-20%20at%202.03.08%20PM.jpeg)
 ### 💡 Key Insights Captured:
 * **Attrition by Age Group**: Identifies which age demographics have the highest turnover (e.g., 18-29 years old).
 * **Attrition by Department**: Visualizes turnover rates across Research & Development, Sales, and HR.
